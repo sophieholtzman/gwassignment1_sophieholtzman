@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
+git config --global user.email “sophieholtz@gwu.edu”
+git config --global user.name "Sophie Holtzman"
